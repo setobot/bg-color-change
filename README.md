@@ -1,2 +1,2 @@
-# random-color
-Just a simple script to change the background color.
+# bg-color-change
+Changes the BODY background color every 10 seconds.
